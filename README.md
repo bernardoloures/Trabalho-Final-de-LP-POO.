@@ -71,4 +71,7 @@ git clone https://github.com/bernardoloures/Trabalho-Final-de-LP-POO
 
 # Vídeo de demonstração do projeto
 
+https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/d3a6a652-e229-4713-b01d-71298d2c3ee6
+
+
 
