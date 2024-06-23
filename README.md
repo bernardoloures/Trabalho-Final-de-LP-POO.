@@ -1,4 +1,4 @@
- # FutFans - Sistema de Vitrine e Carrinho de Compras
+ # FutFans - Sistema de Vendas 
 
 # Descrição
 FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swing para criar uma interface gráfica. O projeto simula um sistema de vendas, onde os usuários podem visualizar diferentes camisas de times de futebol, adicioná-las ao carrinho de compras e realizar pagamentos usando diferentes métodos.
