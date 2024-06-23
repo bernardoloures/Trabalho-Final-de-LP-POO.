@@ -14,12 +14,12 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 # Estrutura do projeto
 
 # - Imagens
--camisa-cruzeiro.jpg
--camisa-atletico.jpg
--camisa-internacional.jpg
--camisa-sao-paulo.jpg
--Carrinho.png
--qrcode.png
+- camisa-cruzeiro.jpg
+- camisa-atletico.jpg
+- camisa-internacional.jpg
+- camisa-sao-paulo.jpg
+- Carrinho.png
+- qrcode.png
 
 # - Classes
 -TelaInicial.java
