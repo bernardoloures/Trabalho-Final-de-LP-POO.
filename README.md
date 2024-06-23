@@ -5,28 +5,28 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 
 # Funcionalidades
 
-Vitrine de Produtos: Visualização de produtos com imagens e preços.
-Carrinho de Compras: Adição de produtos ao carrinho e visualização dos itens adicionados.
-Pagamento: Opções para pagamento com Pix (exibindo um QR code) e cartão de crédito.
-Login: Tela de login para usuários.
-Cadastro: Tela de cadastro para usuários.
+-Vitrine de Produtos: Visualização de produtos com imagens e preços.
+-Carrinho de Compras: Adição de produtos ao carrinho e visualização dos itens adicionados.
+-Pagamento: Opções para pagamento com Pix (exibindo um QR code) e cartão de crédito.
+-Login: Tela de login para usuários.
+-Cadastro: Tela de cadastro para usuários.
 
 # Estrutura do projeto
 
 # - Imagens
-camisa-cruzeiro.jpg
-camisa-atletico.jpg
-camisa-internacional.jpg
-camisa-sao-paulo.jpg
-Carrinho.png
-qrcode.png
+-camisa-cruzeiro.jpg
+-camisa-atletico.jpg
+-camisa-internacional.jpg
+-camisa-sao-paulo.jpg
+-Carrinho.png
+-qrcode.png
 
 # - Classes
-TelaInicial.java
-Carrinho.java
-TelaPagamento
-Login
-Produto
+-TelaInicial.java
+-Carrinho.java
+-TelaPagamento
+-Login
+-Produto
 
 # Instalação e Execução
 
