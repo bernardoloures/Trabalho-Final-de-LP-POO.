@@ -36,7 +36,7 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 
 # - Passos
 1. Clone este repositório para sua máquina local.
-git clone https://github.com/bernardoloures/Trabalho-Final-de-LP-POO
+- git clone (https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./tree/main/src)
 
 2. Importe o projeto em sua IDE preferida.
 
