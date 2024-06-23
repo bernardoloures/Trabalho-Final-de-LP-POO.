@@ -58,10 +58,10 @@ git clone https://github.com/bernardoloures/Trabalho-Final-de-LP-POO
 ![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/2b3f8695-3335-4b2f-bac0-343c6798ce18)
 
 # - Tela Login
-![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/9120e0d7-d71a-4711-9f95-443ee4698b0e)
+![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/fb3c13fd-c760-4026-9606-db903d561fe2)
 
 # - Tela Cadastro
-![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/be0933d9-0496-48c9-b533-3368b2949ce2)
+![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/e1df1ab5-8d7b-4015-bd44-e0310f752739)
 
 # - Tela Carrinho
 ![image](https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/b42814a0-d0cf-46e5-9290-7a8d42ec939c)
@@ -71,7 +71,7 @@ git clone https://github.com/bernardoloures/Trabalho-Final-de-LP-POO
 
 # Vídeo de demonstração do projeto
 
-https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/d3a6a652-e229-4713-b01d-71298d2c3ee6
+https://github.com/bernardoloures/Trabalho-Final-de-LP-POO./assets/134572278/2584b764-2b43-40ab-8ee1-04254e6f8c9b
 
 
 
