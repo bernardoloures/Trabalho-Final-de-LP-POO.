@@ -1,15 +1,15 @@
-# FutFans - Sistema de Vitrine e Carrinho de Compras
+ # FutFans - Sistema de Vitrine e Carrinho de Compras
 
 # Descrição
 FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swing para criar uma interface gráfica. O projeto simula um sistema de vendas, onde os usuários podem visualizar diferentes camisas de times de futebol, adicioná-las ao carrinho de compras e realizar pagamentos usando diferentes métodos.
 
 # Funcionalidades
 
--Vitrine de Produtos: Visualização de produtos com imagens e preços.
--Carrinho de Compras: Adição de produtos ao carrinho e visualização dos itens adicionados.
--Pagamento: Opções para pagamento com Pix (exibindo um QR code) e cartão de crédito.
--Login: Tela de login para usuários.
--Cadastro: Tela de cadastro para usuários.
+- Vitrine de Produtos: Visualização de produtos com imagens e preços.
+- Carrinho de Compras: Adição de produtos ao carrinho e visualização dos itens adicionados.
+- Pagamento: Opções para pagamento com Pix (exibindo um QR code) e cartão de crédito.
+- Login: Tela de login para usuários.
+- Cadastro: Tela de cadastro para usuários.
 
 # Estrutura do projeto
 
@@ -22,17 +22,17 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 - qrcode.png
 
 # - Classes
--TelaInicial.java
--Carrinho.java
--TelaPagamento
--Login
--Produto
+- TelaInicial.java
+- Carrinho.java
+- TelaPagamento
+- Login
+- Produto
 
 # Instalação e Execução
 
 # - Pré-requisitos
-JDK 8 ou superior
-IDE de sua escolha (Eclipse, IntelliJ, NetBeans, etc.)
+- JDK 8 ou superior
+- IDE de sua escolha (Eclipse, IntelliJ, NetBeans, etc.)
 
 # - Passos
 1. Clone este repositório para sua máquina local.
@@ -46,11 +46,11 @@ git clone https://github.com/bernardoloures/Trabalho-Final-de-LP-POO
 
 # Uso
 
-Vitrine de Produtos: Na tela inicial, clique nas imagens das camisas para adicioná-las ao carrinho.
-Carrinho de Compras: Clique no ícone do carrinho no canto superior direito para ver os produtos adicionados e o valor total.
-Pagamento: Na tela do carrinho, clique em "Realizar Compra" para abrir a tela de pagamento. Escolha o método de pagamento desejado.
-Pagar com Pix: Abre uma janela com o QR code para pagamento.
-Pagar com Cartão de Crédito: Simula a realização do pagamento com cartão de crédito.
+- Vitrine de Produtos: Na tela inicial, clique nas imagens das camisas para adicioná-las ao carrinho.
+- Carrinho de Compras: Clique no ícone do carrinho no canto superior direito para ver os produtos adicionados e o valor total.
+- Pagamento: Na tela do carrinho, clique em "Realizar Compra" para abrir a tela de pagamento. Escolha o método de pagamento desejado.
+- Pagar com Pix: Abre uma janela com o QR code para pagamento.
+- Pagar com Cartão de Crédito: Simula a realização do pagamento com cartão de crédito.
 
 # Prints
 
