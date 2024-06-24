@@ -24,9 +24,9 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 # - Classes
 - TelaInicial.java
 - Carrinho.java
-- TelaPagamento
-- Login
-- Produto
+- TelaPagamento.java
+- Login.java
+- Produto.java
 
 # Instalação e Execução
 
@@ -42,7 +42,7 @@ FutFans é uma aplicação desktop desenvolvida em Java usando a biblioteca Swin
 
 3. Certifique-se de que as imagens estão no diretório Imagem conforme a estrutura do projeto.
 
-4. Compile e execute a classe Home.java para iniciar a aplicação.
+4. Compile e execute a classe TelaInicial.java para iniciar a aplicação.
 
 # Uso
 
